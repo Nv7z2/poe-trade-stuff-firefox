@@ -17,8 +17,6 @@
     if (el.type !== "text") return;
     if (el.value.startsWith("~")) return;
 
-    console.log(el.value);
-
     el.value = "~" + el.value;
   });
 })();
