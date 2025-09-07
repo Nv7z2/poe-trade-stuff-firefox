@@ -5,9 +5,9 @@
       "id": "nv7z2@beerank"
     }
   },
-  "name": "PoE Fuzzy Search",
+  "name": "PoE Trade tools",
   "version": "0.1",
-  "description": "Adds fuzzy search to www.pathofexile.com/trade. Nighting more, nothing less",
+  "description": "Adds fancy things to www.pathofexile.com/trade.",
   "permissions": ["activeTab", "scripting"],
   "host_permissions": ["https://www.pathofexile.com/trade/*"],
   "content_scripts": [
